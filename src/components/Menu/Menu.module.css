@@ -1,0 +1,27 @@
+.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+
+}
+
+.menuItem {
+	display: inline-block;
+	margin: 7px;
+
+
+}
+
+.menuItem a {
+	text-decoration: none;
+	margin-right: 10px;
+	color: black;
+}
+
+
+
+.menuContainer {
+	border: 1px solid rgb(220, 219, 219);
+	margin: 10px 0;
+}

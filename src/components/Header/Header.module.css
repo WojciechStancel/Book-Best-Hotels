@@ -1,0 +1,10 @@
+.header {
+	height: 250px;
+	background-color: rgb(234, 225, 225);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 80px 15px;
+	background: url(../../assets/images/building-66789_1280.jpg) center;
+	background-size: cover;
+}
